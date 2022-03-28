@@ -1,0 +1,1 @@
+This website is used to make it easier for business owners and employees to record sales data for each existing outlet. If sales data recap is done manually, this will be very inconvenient. With Rezyume Web, business owners and outlet employees can record product sales data anywhere and anytime.
